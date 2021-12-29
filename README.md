@@ -1,4 +1,5 @@
 # Titanic-Machine-Learning-from-disaster
+#https://lolalechuri.wixsite.com/mywebsite/post/manage-your-blog-from-your-live-site
 
 This machine Learning project is about predicting the survival output of the passengers that were travelling on the titanic ship. There are various attributes that contribute the survival chances. The main challenge of this project is to play with these attributes and mine that patterns which will prove to be useful in predicting the output.  
 
